@@ -1,1 +1,1 @@
-# Menu
+# Hotel Menu
